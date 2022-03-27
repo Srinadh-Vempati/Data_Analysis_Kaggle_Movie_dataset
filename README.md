@@ -13,6 +13,5 @@ Data Analysis on the Movie Kaggle dataset.
 - matplotlib
 
 **References**
-
-Data Set: https://www.kaggle.com/datasets/danielgrijalvas/movies
-Project: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb
+- Data Set: https://www.kaggle.com/datasets/danielgrijalvas/movies
+- Project: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb
